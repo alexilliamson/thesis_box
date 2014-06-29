@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  url: MyText
+  day: 1
+  month: 1
+  year: 1
+  title: MyText
+  chamber: 1
+
+two:
+  url: MyText
+  day: 1
+  month: 1
+  year: 1
+  title: MyText
+  chamber: 1
